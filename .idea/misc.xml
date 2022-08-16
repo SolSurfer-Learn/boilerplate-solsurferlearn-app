@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DesignSurface">
-    <option name="filePathToZoomLevelMap">
-      <map>
-        <entry key="..\:/Users/Kolmercm/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_gaming.xml" value="0.13541666666666666" />
-        <entry key="..\:/Users/Kolmercm/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_home.xml" value="0.22" />
-        <entry key="..\:/Users/Kolmercm/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Kolmercm/AndroidStudioProjects/surfin/app/src/main/res/layout/opening.xml" value="0.17346014492753623" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_gaming.xml" value="0.209375" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_home.xml" value="0.25" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_main.xml" value="0.5" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_meta_teds.xml" value="0.1953125" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_shop1.xml" value="0.209375" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_shop2.xml" value="0.1983695652173913" />
-        <entry key="..\:/Users/Kolmercm/code/AndroidStudioProjects/surfin/app/src/main/res/layout/activity_sol_surfer.xml" value="0.209375" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
